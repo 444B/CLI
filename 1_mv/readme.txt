@@ -22,4 +22,4 @@ Tips:
 
 Completed:
 Move on to the next activity, in the directory 2_rm
-cd there and carry on the excercises as described in the readme.txt of 2_mv
+cd there and carry on the excercises as described in the readme.txt of 2_rm
