@@ -21,3 +21,4 @@ Tips:
 
 Completed:
 Move on to the next activity, in the directory 1_mv
+cd there and carry on the excercises as described in the readme.txt of 1_mv
