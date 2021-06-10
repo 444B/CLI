@@ -1,6 +1,7 @@
 Intro:
 Lets move the sandbox.log file from 1_mv/ to this new directory 2_rm/
 However,  if we run the ls command, we see that we already have a sandbox.log here! lets delete it quickly before we get confused
+I wonder whats on this one that we are about to delete? ;)
 
 Tasks:
 1. using the rm command on the "sandbox.log" file located in this directory to delete it
