@@ -7,7 +7,7 @@ make a new copy called "Linux_2k.log.bck" and have it in the same directory
 
 Once the task is complete, you should have 3 files in the 0_copy directory:
 - Linux_2k.log
-- Linux_2k.log.back
+- Linux_2k.log.bck
 - readme.txt
 
 Useful Commands:
