@@ -31,7 +31,7 @@ Once you have successfully cloned the repository, navigate into it and take a lo
 
 use the next command to navigate to the first excercise and read the text file
 ```shell
-cd 0_root/
+cd 0_copy/
 cat readme.txt
 ```
 # Good luck!
