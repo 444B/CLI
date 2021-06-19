@@ -7,7 +7,7 @@ git clone https://github.com/444B/CLI.git
 ```
 <br/>
 <br/>
-A breakdown of this command [ And optionally read up on the man file if you wouild like ]
+A breakdown of this command [ And optionally read up on the man file if you would like ]
 
 ```shell
 git
@@ -28,7 +28,6 @@ This is the URL we are copying! Whatever files and directories are here, we will
 <br/>
 <br/>
 Once you have successfully cloned the repository, navigate into it and take a look. 
-
 use the next command to navigate to the first excercise and read the text file
 ```shell
 cd 0_copy/
