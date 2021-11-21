@@ -1,5 +1,5 @@
 # Welcome
-Practice ground for Amit4Life CLI course
+Practice ground for a CLI course
 <br/>
 Copy this to your current directory by running the following command
 ```shell
