@@ -6,13 +6,13 @@ There are 2 Folders;
 # Set-up
 This folder offers a range of solutions to getting started on Linux. depending on your devices and permissions
 it will cover:
-- Windows
-    - Dual Boot
-    - Virtualbox
-    - WSL (WIndows susbsystem for Linux)
-- Mac
-- Android
-- USB + laptop
+- [Windows](https://github.com/444B/CLI/blob/main/set-up/WIndows.md)
+    - [Dual Boot](https://github.com/444B/CLI/blob/main/set-up/WIndows.md#Dual%20Boot)
+    - [Virtualbox](https://github.com/444B/CLI/blob/main/set-up/WIndows.md#Virtualbox)
+    - [WSL](https://github.com/444B/CLI/blob/main/set-up/WIndows.md#WSL) (WIndows susbsystem for Linux)
+- [Mac](https://github.com/444B/CLI/blob/main/set-up/Mac)
+- [Android](https://github.com/444B/CLI/blob/main/set-up/Android)
+- [USB + laptop](https://github.com/444B/CLI/blob/main/set-up/USB%20%2B%20laptop)
 
 # excercises
 These excercises are meant to be used during the course to practise.
