@@ -6,12 +6,12 @@ There are 2 Folders;
 Please pick a setup path below and let me know if you have any further suggestions
 
 # Set-up
-This folder offers a range of solutions to getting started on Linux. depending on your devices and permissions
+This folder offers a range of solutions to getting started on Linux. depending on your devices and permissions  
 it will cover:
 - [Windows](https://github.com/444B/CLI/blob/main/set-up/WIndows.md)
-    - [Dual Boot](https://github.com/444B/CLI/blob/main/set-up/WIndows.md#Dual%20Boot)
-    - [Virtualbox](https://github.com/444B/CLI/blob/main/set-up/WIndows.md#Virtualbox)
-    - [WSL](https://github.com/444B/CLI/blob/main/set-up/WIndows.md#WSL) (WIndows susbsystem for Linux)
+    - [Dual Boot](https://github.com/444B/CLI/blob/main/set-up/WIndows.md#dual-boot)
+    - [Virtualbox](https://github.com/444B/CLI/blob/main/set-up/WIndows.md#virtualbox)
+    - [WSL](https://github.com/444B/CLI/blob/main/set-up/WIndows.md#wsl) (WIndows susbsystem for Linux)
 - [Mac](https://github.com/444B/CLI/blob/main/set-up/Mac)
 - [Android](https://github.com/444B/CLI/blob/main/set-up/Android)
 - [USB + laptop](https://github.com/444B/CLI/blob/main/set-up/USB%2Blaptop.md)
