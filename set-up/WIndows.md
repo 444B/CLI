@@ -7,9 +7,9 @@ Then grab a copy of any Linux ISO. If this is your frist time, go for something 
 This method will install Virtualbox, which will create a platform for creating virtual computers. We basically simulate an entire new computer in your existing machines memory.  
 We simulate the virtual computer by giving it an ISO file, in this case Ubuntu
 # Dual Boot
-
+_in progress_
 # WSL
-
+_in progress_
 
 [^1]: this link will take you to the Ubuntu website and show you two options for the OS  
 You can go for Desktop image if you are a beginner or a Server install image if you are already a little familiar with the concept of CLI. Both will do fine.  
