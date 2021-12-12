@@ -13,5 +13,5 @@ We simulate the virtual computer by giving it an ISO file, in this case Ubuntu
 
 [^1]: this link will take you to the Ubuntu website and show you two options for the OS  
 You can go for Desktop image if you are a beginner or a Server install image if you are already a little familiar with the concept of CLI. Both will do fine.  
-- Desktop Image : 2.9 GB  
-- Server Install Image : 1.2 GB  
+Desktop Image : 2.9 GB  
+Server Install Image : 1.2 GB  
