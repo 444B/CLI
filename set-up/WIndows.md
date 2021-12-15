@@ -1,4 +1,4 @@
-# Windows
+## Windows
 There are numerous methods for installing on windows, as described below  
 
 # Virtualbox
@@ -7,10 +7,10 @@ Then grab a copy of any Linux ISO. If this is your frist time, go for something 
 This method will install Virtualbox, which will create a platform for creating virtual computers. We basically simulate an entire new computer in your existing machines memory.  
 We simulate the virtual computer by giving it an ISO file, in this case Ubuntu
 
-# Dual Boot
+## Dual Boot
 This method is explained in more detail in the [USB+Laptop](https://github.com/444B/CLI/blob/main/set-up/USB%2Blaptop.md) section
 
-# WSL
+## WSL
 go to coommandline or powershell on your windows machine and enter
 ``` wsl --install ```
 This will install a local copy of Linux on your machine, Ubuntu 20.04 by default
