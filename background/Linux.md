@@ -24,6 +24,12 @@ Less Common:
 - [Suicide Linux](https://malwiki.org/index.php?title=Suicide_Linux)
 - Arch Linux (kinda)  
 
+In summary, it isL
+- ideologically different in regards to software design, 
+- revolutionary in regards to ownership and control
+- has changed to the world  
+
+Decentralized Ledger Technology is an evolution of open source ideas.
 
 
 [^1]:  https://en.wikipedia.org/wiki/History_of_Linux
