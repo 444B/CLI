@@ -21,3 +21,5 @@ Now you get to pick a few things
 - A username (remember this)
 - A hostname (name of the machine)
 - A password (very important)
+
+That should be about everything. Now you have a working Linux distro accoridng to you use case, we can continue with the CLI course
